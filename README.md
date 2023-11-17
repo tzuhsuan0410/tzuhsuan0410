@@ -1,16 +1,13 @@
-### Hi there 👋
+# 專長
 
-<!--
-**tzuhsuan0410/tzuhsuan0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning
 
-Here are some ideas to get you started:
+# 經歷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫中原大學資管系
+
+🏫輔仁大學資管系
+
+# 信箱
+
+📧411346053@m365.fju.edu.tw
